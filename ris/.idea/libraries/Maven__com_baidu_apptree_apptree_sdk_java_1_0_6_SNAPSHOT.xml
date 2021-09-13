@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.baidu.apptree:apptree-sdk-java:1.0.6-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/com/baidu/apptree/apptree-sdk-java/1.0.6-SNAPSHOT/apptree-sdk-java-1.0.6-20191107.031332-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/repository/com/baidu/apptree/apptree-sdk-java/1.0.6-SNAPSHOT/apptree-sdk-java-1.0.6-20191107.031332-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/repository/com/baidu/apptree/apptree-sdk-java/1.0.6-SNAPSHOT/apptree-sdk-java-1.0.6-20191107.031332-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

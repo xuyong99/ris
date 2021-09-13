@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.baidu.fsg:java-watcher:1.0.44-RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/com/baidu/fsg/java-watcher/1.0.44-RELEASE/java-watcher-1.0.44-RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/repository/com/baidu/fsg/java-watcher/1.0.44-RELEASE/java-watcher-1.0.44-RELEASE-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/repository/com/baidu/fsg/java-watcher/1.0.44-RELEASE/java-watcher-1.0.44-RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

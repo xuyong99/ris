@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="plms-schedule-job (2)" />
+        <module name="plms-gateway" />
+        <module name="plms-common" />
+        <module name="plms-common (2)" />
+        <module name="plms-mgmt" />
+        <module name="plms-schedule-job" />
+        <module name="plms-mgmt (2)" />
+        <module name="plms-gateway (2)" />
+      </profile>
+      <profile name="Annotation profile for plms-script" enabled="true">
+        <sourceOutputDir name="output/generated-sources/annotations" />
+        <sourceTestOutputDir name="output/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="plms-script" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="case-analyze" target="1.8" />
+      <module name="case-api" target="1.8" />
+      <module name="case-biz" target="1.8" />
+      <module name="plms-bom" target="1.8" />
+      <module name="plms-common" target="1.8" />
+      <module name="plms-common (1)" target="1.5" />
+      <module name="plms-common (2)" target="1.5" />
+      <module name="plms-gateway" target="1.8" />
+      <module name="plms-gateway (1)" target="1.5" />
+      <module name="plms-gateway (2)" target="1.5" />
+      <module name="plms-mgmt" target="1.8" />
+      <module name="plms-mgmt (1)" target="1.5" />
+      <module name="plms-mgmt (2)" target="1.5" />
+      <module name="plms-schedule-job" target="1.8" />
+      <module name="plms-schedule-job (1)" target="1.5" />
+      <module name="plms-schedule-job (2)" target="1.5" />
+      <module name="plms-script" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="case-api" options="-parameters" />
+      <module name="case-biz" options="-parameters" />
+    </option>
+  </component>
+</project>

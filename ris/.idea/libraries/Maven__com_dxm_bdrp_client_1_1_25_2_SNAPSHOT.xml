@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.dxm:bdrp-client:1.1.25.2-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/com/dxm/bdrp-client/1.1.25.2-SNAPSHOT/bdrp-client-1.1.25.2-20191203.034129-9.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/repository/com/dxm/bdrp-client/1.1.25.2-SNAPSHOT/bdrp-client-1.1.25.2-20191203.034129-9-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/repository/com/dxm/bdrp-client/1.1.25.2-SNAPSHOT/bdrp-client-1.1.25.2-20191203.034129-9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

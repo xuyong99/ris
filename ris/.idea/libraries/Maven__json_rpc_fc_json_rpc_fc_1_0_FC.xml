@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: json-rpc-fc:json-rpc-fc:1.0.FC">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/json-rpc-fc/json-rpc-fc/1.0.FC/json-rpc-fc-1.0.FC.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/repository/json-rpc-fc/json-rpc-fc/1.0.FC/json-rpc-fc-1.0.FC-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/repository/json-rpc-fc/json-rpc-fc/1.0.FC/json-rpc-fc-1.0.FC-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

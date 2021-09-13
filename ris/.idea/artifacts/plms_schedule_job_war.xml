@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="plms-schedule-job:war">
+    <output-path>$PROJECT_DIR$/plms-schedule-job/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>plms-schedule-job</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="plms-schedule-job.war">
+      <element id="artifact" artifact-name="plms-schedule-job:war exploded" />
+    </root>
+  </artifact>
+</component>

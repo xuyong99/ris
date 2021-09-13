@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/plms-bom/plms-bom.iml" filepath="$PROJECT_DIR$/plms-bom/plms-bom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plms-common/plms-common.iml" filepath="$PROJECT_DIR$/plms-common/plms-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plms-gateway/plms-gateway.iml" filepath="$PROJECT_DIR$/plms-gateway/plms-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plms-mgmt/plms-mgmt.iml" filepath="$PROJECT_DIR$/plms-mgmt/plms-mgmt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plms-schedule-job/plms-schedule-job.iml" filepath="$PROJECT_DIR$/plms-schedule-job/plms-schedule-job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plm-script/plms-script.iml" filepath="$PROJECT_DIR$/plm-script/plms-script.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ris.iml" filepath="$PROJECT_DIR$/.idea/ris.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.baidu.bbs.agent:service-common:2.0.0.52-sg">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/com/baidu/bbs/agent/service-common/2.0.0.52-sg/service-common-2.0.0.52-sg.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/repository/com/baidu/bbs/agent/service-common/2.0.0.52-sg/service-common-2.0.0.52-sg-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/repository/com/baidu/bbs/agent/service-common/2.0.0.52-sg/service-common-2.0.0.52-sg-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

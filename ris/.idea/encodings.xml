@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/plm-script" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/plms-bom" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/plms-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/plms-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/plms-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/plms-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/plms-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/plms-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/plms-mgmt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/plms-mgmt/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/plms-mgmt/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/plms-schedule-job" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/plms-schedule-job/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/plms-schedule-job/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
